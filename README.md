@@ -1,2 +1,2 @@
 # python-homework
-python, homework humber 2
+python, homework number 2
